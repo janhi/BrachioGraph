@@ -1,0 +1,19 @@
+// Technical Foundation
+
+Implement basic webserver functionality
+Select Webframework
+
+// MVP
+Endpoint to see available plots
+Endpoint to preview plots
+
+Endpoint to (re)init BG
+Endpoint to start selected plot
+
+// RC1
+
+Endpoint to upload images
+Endpoint to calculate plot data
+
+// RC2
+Plot Management
