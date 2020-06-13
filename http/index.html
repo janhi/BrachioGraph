@@ -1,8 +1,23 @@
 <html>
-<head><title>BrachioGraph Manager</title></head>
-<body>
-Welcome to the BrachioGraph
 
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <title>BrachioGraph Manager</title>
+</head>
+
+<body>
+    <div id="app">
+        {{ message }}
+    </div>
+    <script>
+        var app = new Vue({
+            el: '#app',
+            data: {
+                message: 'Welcome to the BrachioGraph'
+            }
+        })
+
+    </script>
 </body>
 
 </html>

@@ -3,6 +3,7 @@
 * [x] Implement basic webserver functionality
 	* [x] File Serve
 	* [x] List available plots
+* [x] Select Webframework (Vue)
 
 // MVP
 Endpoint to see available plots
