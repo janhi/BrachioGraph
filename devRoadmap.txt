@@ -1,7 +1,8 @@
 // Technical Foundation
 
-Implement basic webserver functionality
-Select Webframework
+* [x] Implement basic webserver functionality
+	* [x] File Serve
+	* [x] List available plots
 
 // MVP
 Endpoint to see available plots
